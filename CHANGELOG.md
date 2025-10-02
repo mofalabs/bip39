@@ -13,3 +13,7 @@
 ## 1.0.6
 
 - Resolved nullsafety code issues
+
+## 1.0.7
+
+- Update pointycastle version to 4.0.0
